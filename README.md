@@ -1,7 +1,7 @@
 # Revoke-Fixing-Guide
 
-For English version click this link: [English guide](https://github.com/username/Revoke-Fixing-Guide/blob/main/README-en.md)  
-Repo: [GitHub - Revoke-Fixing-Guide](https://github.com/username/Revoke-Fixing-Guide)
+For English version click this link: COMING SOON
+
 
 ---
 
