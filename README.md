@@ -1,45 +1,36 @@
 # Revoke-Fixing-Guide a Firkához!!!
 
+## Tartalomjegyzék
+- [1. módszer: Alacsony sikerességi arány, nem szükséges számítógép](#1-módszer)
+- [2. módszer: Közepes-magas sikerességi arány, számítógép szükséges](#2-módszer)
+- [3. módszer: Magas sikerességi arány, számítógép szükséges](#3-módszer)
+- [4. módszer: Működni fog, számítógép szükséges, de törli az adataidat](#4-módszer)
+
 # Revoke javítása
 
-## 1. módszer: Alacsony sikerességi arány, nem szükséges számítógép.
+## <a name="1-módszer"></a>1. módszer: Alacsony sikerességi arány, nem szükséges számítógép.
 
-## 2. módszer: Közepes-magas sikerességi arány, számítógép szükséges.
+1. Távolítsd el a konfigurációs profilt, és törölj minden sideloadolt alkalmazást.
+2. Készíts biztonsági mentést az iCloud segítségével.
+3. Állítsd vissza a készüléket: Beállítások > Általános > iPhone átvitele vagy visszaállítása > Összes tartalom és beállítás törlése.
+4. Állítsd vissza az iCloud biztonsági mentésedet.
+5. Kövesd újra az útmutatót.
 
-## 3. módszer: Magas sikerességi arány, számítógép szükséges.
+## <a name="2-módszer"></a>2. módszer: Közepes-magas sikerességi arány, számítógép szükséges.
 
-## 4. módszer: Működni fog, számítógép szükséges, de törli az adataidat.
+1. Távolítsd el a konfigurációs profilt, és törölj minden sideloadolt alkalmazást.
+2. Készíts biztonsági mentést, majd állítsd a készüléket helyreállítási módba, és Finderben vagy iTunesban kattints a frissítésre.
+3. Kövesd újra az útmutatót.
 
-1. módszer
-Távolítsd el a konfigurációs profilt, és törölj minden sideloadolt alkalmazást.
+## <a name="3-módszer"></a>3. módszer: Magas sikerességi arány, számítógép szükséges.
 
-Készíts biztonsági mentést az iCloud segítségével.
+1. Távolítsd el a konfigurációs profilt, és törölj minden sideloadolt alkalmazást.
+2. Készíts biztonsági mentést iTunes vagy Finder segítségével.
+3. Állítsd vissza a készüléket DFU módban.
+4. Csatlakoztasd a telefont a számítógéphez, majd Finderben vagy iTunesban válaszd a biztonsági mentés visszaállítását.
+5. Kövesd újra az útmutatót.
 
-Állítsd vissza a készüléket: Beállítások > Általános > iPhone átvitele vagy visszaállítása > Összes tartalom és beállítás törlése.
+## <a name="4-módszer"></a>4. módszer: Működni fog, számítógép szükséges, de törli az adataidat.
 
-Állítsd vissza az iCloud biztonsági mentésedet.
-
-Kövesd újra az útmutatót.
-
-2. módszer
-Távolítsd el a konfigurációs profilt, és törölj minden sideloadolt alkalmazást.
-
-Készíts biztonsági mentést, majd állítsd a készüléket helyreállítási módba, és Finderben vagy iTunesban kattints a frissítésre.
-
-Kövesd újra az útmutatót.
-
-3. módszer
-Távolítsd el a konfigurációs profilt, és törölj minden sideloadolt alkalmazást.
-
-Készíts biztonsági mentést iTunes vagy Finder segítségével.
-
-Állítsd vissza a készüléket DFU módban.
-
-Csatlakoztasd a telefont a számítógéphez, majd Finderben vagy iTunesban válaszd a biztonsági mentés visszaállítását.
-
-Kövesd újra az útmutatót.
-
-4. módszer
-Állítsd vissza a készüléket DFU módban az iTunes vagy Finder segítségével.
-
-Kövesd újra az útmutatót.
+1. Állítsd vissza a készüléket DFU módban az iTunes vagy Finder segítségével.
+2. Kövesd újra az útmutatót.
